@@ -1,4 +1,3 @@
-
 event_title = input("Enter event title: ")
 year = input("Enter year: ")
 month = input("Enter month: ")
